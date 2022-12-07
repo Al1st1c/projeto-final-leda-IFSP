@@ -1,22 +1,3 @@
-// Adega de Vinhos
-// Imagine um colecionador de vinhos que compra vinhos recentes e os guarda em uma adega para envelhecerem, e que cada ocasião especial abre sempre a sua última aquisição (para poupar os mais antigos). Construa um programa que:
-// 1. Crie uma pilha de vinhos, onde cada elemento da pilha é um registro com o nome do vinho, pais de origem, tipo de uva e safra
-// 2. Crie uma função para adicionar um vinho na pilha
-// 3. Informe qual vinho deve ser aberto sem uma ocasião especial, retirando da adega o vinho adicionado mais antigamente (independentemente de sua safra);
-// 4. Permite criar estruturas para o armazenamento de vinhos para ocasiões especiais;
-// 5. Informe qual vinho deve ser aberto em uma ocasião especial;
-// 6. Relacione as cinco aquisições mais antigas;
-// 7. Relacione as cinco aquisições mais recentes.
-
-// create pilha de vinhos, nome, pais, tipo de uva, safra
-// create function to add wine in the stack
-// create a function to open the wine without a special occasion, removing the oldest wine added to the cellar (regardless of its vintage);
-// create a function to create structures for storing wines for special occasions;
-// create a function to open a wine in a special occasion;
-// create a function to relate the five oldest acquisitions;
-// create a function to relate the five most recent acquisitions;
-
-// Path: exec7.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
