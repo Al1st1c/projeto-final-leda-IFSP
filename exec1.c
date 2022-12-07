@@ -91,8 +91,8 @@ int main(void){
     int escolha = 0;
 
     while (escolha != 8) {
-        printf("1 - Inserir elemento na pilha");
-        printf("2 - Remover elemento da pilha");
+        printf("1 - Empilhar elemento na pilha");
+        printf("2 - Desempilhar elemento da pilha");
         printf("3 - Verificar se a pilha está vazia");
         printf("4 - Verificar se a pilha está cheia");
         printf("5 - Ver quantidade de elementos na pilha");
